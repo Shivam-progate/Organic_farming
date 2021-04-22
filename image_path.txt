@@ -1,0 +1,4 @@
+﻿Images of Team Member will be visible only in follwoing two cases:
+1. Take the images from github and store them in location mentioned in HTML file. OR
+2. Store images at your comfort location in file system and update the image path in html file.
+you can use any one of the above mentioned measures as per your comfort.
